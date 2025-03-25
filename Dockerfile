@@ -1,5 +1,5 @@
 FROM nginx:latest
 
-COPY . /user/share/nginx/
+COPY . /usr/share/nginx/html/
 
 EXPOSE 8050
