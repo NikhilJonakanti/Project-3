@@ -2,4 +2,4 @@ FROM nginx:latest
 
 COPY . /usr/share/nginx/html/
 
-EXPOSE 8085
+EXPOSE 8081
